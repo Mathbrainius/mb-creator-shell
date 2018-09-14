@@ -2,7 +2,7 @@
 
 # config
 releaseName="MB Creator"
-version="1.14"
+version="1.0"
 dmgName="${releaseName} Release ${version}"
 format="bzip2"
 encryption="none"
